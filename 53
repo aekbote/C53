@@ -22,9 +22,7 @@ Answer: HTML
 
 4.	Name two uses of a DIV tag?
 
-Answer: to form boxes around things and aligning/ styling things
-
-
+Answer: We use DIV tages to form boxes around things and aligning/ styling things
 
 
 
@@ -33,14 +31,15 @@ Answer: to form boxes around things and aligning/ styling things
 
 4. What is the difference between relative positioning and absolute positioning in HTML?
 
-Answer: absolute positioning is something that has a fixed position but relative has a 
-
+Answer: Absolute positioning is a box or something within another thing. It only controls that certain thing's properties like the padding, width, etc. 
+Relative positioning is the whole flex box or the outermost container. This controls not only the box itself but the components within the box. So, if I used relative
+positioning to move a box down, the contents in the box would move down as well.
 
 
 
 5. What is the use of opacity in CSS?
 
-Answer: the opacity is to show how clear an image is or how translucent
+Answer: The opacity is to show how clear an image is or how translucent
 
 
 
@@ -81,7 +80,7 @@ Answer: to display components and rendering them
 
 10. What is the use of the return function in the React Native Framework?
 
-Answer: return is the actual things that get displayed like methods inside of a class
+Answer: The use of the return method is to display specific mehtods like a method gets displayed in a class.
 
 
 
@@ -89,6 +88,6 @@ Answer: return is the actual things that get displayed like methods inside of a 
 
 11. What are the various components in your first app that you designed?
 
-Answer:  text, button
+Answer:  Some components are sound, text, and buttons.
 
 
